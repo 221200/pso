@@ -20,7 +20,7 @@ There's also an implementation in Go which can be found
 
 
 
-## USAGE
+## USAGE OF PSO
 
 
 Just include pso.h and pso.c in your code - no other dependencies are
@@ -51,7 +51,7 @@ memory will leak).
 
 
 
-### NEIGHBORHOOD TOPOLOGIES
+### NEIGHBORHOOD TOPOLOGIES RELATED PSO
 
 pso provides three different strategies for determining each
 particle's neighborhood attractor:
